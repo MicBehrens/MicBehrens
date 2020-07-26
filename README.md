@@ -1,3 +1,3 @@
 ### Hi there 👋
-
-![Hi](https://github.com/MicBehrens/MicBehrens/blob/master/giphy.gif)
+---
+![Hey!](https://github.com/MicBehrens/MicBehrens/blob/master/giphy.gif)
